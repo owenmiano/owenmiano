@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Owen Miano</h1>
-<h3 align="center">A passionate mobile app developer based in Nairobi,kenya in Kenta</h3>
+<h3 align="center">A passionate mobile app developer based in Nairobi, Kenya</h3>
 
 - 🌱 I’m currently learning **React Native,ReactJS,NodeJS**
 
